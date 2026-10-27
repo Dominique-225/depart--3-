@@ -1,0 +1,28 @@
+LES RESULTATS DES TESTS
+
+dépenses initiales avant le tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+dépenses originales après le tri de la copie : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+dépenses triées : [
+     0, 1000, 1500,
+  2500, 2500, 3000,
+  4000
+]
+total : total, FCFA
+moyenne : moyenne, FCFA/jour
+dépense maximale : maximum, FCFA
+dépenses supérieures à 2000 FCFA : grossesDepenses
+
+===== BILAN DES DÉPENSES DE LA SEMAINE =====
+Total : 14500 FCFA
+Moyenne par jour : 2071.43 FCFA
+Dépenses supérieures à 2000 FCFA : 2500, 4000, 2500, 3000 FCFA
+Dépense maximale : 4000 FCFA
+Copie triée par ordre croissant : 0, 1000, 1500, 2500, 2500, 3000, 4000
